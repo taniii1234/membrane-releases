@@ -1,0 +1,16 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Membrane E2E-Test</title>
+        <item>
+            <title>0.1.0-beta.10</title>
+            <pubDate>Fri, 10 Jul 2026 20:06:03 +0200</pubDate>
+            <link>https://github.com/taniii1234/membrane-releases</link>
+            <sparkle:version>3</sparkle:version>
+            <sparkle:shortVersionString>0.1.0-beta.10</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://github.com/taniii1234/membrane-releases/releases/download/beta-assets/Membrane-0.1.0-beta.10.zip" length="66486756" type="application/octet-stream" sparkle:edSignature="AAAAAAAAp2OPvekX+/T0ePnsZg6ZWKiTJXt16Q7zupn4Nw6Vv3sg+cDEDbsihawc6//vvavFMQYCtwGZumsFCg=="/>
+        </item>
+    </channel>
+</rss>
