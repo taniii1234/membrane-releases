@@ -3,6 +3,16 @@
     <channel>
         <title>Membrane</title>
         <item>
+            <title>0.1.0-beta.16</title>
+            <pubDate>Thu, 16 Jul 2026 13:39:41 +0200</pubDate>
+            <link>https://github.com/taniii1234/membrane-releases</link>
+            <sparkle:version>9</sparkle:version>
+            <sparkle:shortVersionString>0.1.0-beta.16</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://github.com/taniii1234/membrane-releases/releases/download/beta-assets/Membrane-0.1.0-beta.16.zip" length="67179715" type="application/octet-stream" sparkle:edSignature="zcpDUFqEMlM9ZJBZ+o9JGkz7u0/EIHO5cduuMj6qhuzw0qoflcuLbvyXQXQvLmN0sgbaxFZhnNeGx15OMkyPCw=="/>
+        </item>
+        <item>
             <title>0.1.0-beta.15</title>
             <pubDate>Wed, 15 Jul 2026 20:32:47 +0200</pubDate>
             <link>https://github.com/taniii1234/membrane-releases</link>
@@ -21,16 +31,6 @@
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
             <enclosure url="https://github.com/taniii1234/membrane-releases/releases/download/beta-assets/Membrane-0.1.0-beta.14.zip" length="67105645" type="application/octet-stream" sparkle:edSignature="AFIU5wCAopwY1OFDsKCDkVCDZZMyahhulwxZKOHyjSmepNTBtvJyGAli5Y5iLEoNhuSqlheOqZ7H5rOpXY6ABg=="/>
-        </item>
-        <item>
-            <title>0.1.0-beta.13</title>
-            <pubDate>Sun, 12 Jul 2026 10:19:22 +0200</pubDate>
-            <link>https://github.com/taniii1234/membrane-releases</link>
-            <sparkle:version>6</sparkle:version>
-            <sparkle:shortVersionString>0.1.0-beta.13</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/taniii1234/membrane-releases/releases/download/beta-assets/Membrane-0.1.0-beta.13.zip" length="66860762" type="application/octet-stream" sparkle:edSignature="7mxk44S0QhUCxq50J3kbxj51RcESFGgmGgCaZOHUCBXb98x/7ry2aE1GFnhUjTHmWEP7IVRPe9ulB7xZxZgUBg=="/>
         </item>
     </channel>
 </rss>
